@@ -2,10 +2,10 @@
   <img src="https://envs.sh/TME.jpg" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  Viper FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+viper+Filter+Bot!)
 </p>
 
 ## Main Feature 
